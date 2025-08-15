@@ -1,1 +1,2 @@
-# Skill_Morph-Research_DataScience
+# Agenda: 
+- learning Research and DataScience ! 
